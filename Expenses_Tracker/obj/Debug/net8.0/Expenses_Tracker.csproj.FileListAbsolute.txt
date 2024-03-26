@@ -1,0 +1,15 @@
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\bin\Debug\net8.0\Expenses_Tracker.exe
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\bin\Debug\net8.0\Expenses_Tracker.deps.json
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\bin\Debug\net8.0\Expenses_Tracker.runtimeconfig.json
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\bin\Debug\net8.0\Expenses_Tracker.dll
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\bin\Debug\net8.0\Expenses_Tracker.pdb
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.AssemblyInfoInputs.cache
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.AssemblyInfo.cs
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.csproj.CoreCompileInputs.cache
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.sourcelink.json
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.dll
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\refint\Expenses_Tracker.dll
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.pdb
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\Expenses_Tracker.genruntimeconfig.cache
+E:\SohrabYavari OneDrive\OneDrive\Documents\VS Code\Code\Portfolio\Company_Expenses_Tracker\Expenses_Tracker\obj\Debug\net8.0\ref\Expenses_Tracker.dll
